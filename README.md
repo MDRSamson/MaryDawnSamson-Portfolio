@@ -8,12 +8,12 @@ I'm a recent graduate of a Data Technician Skills Bootcamp, where I gained hands
 
 Please find below data analysis projects I have completed:
 
-<a href="https://github.com/MDRSamson/Excel" target="_blank">Excel</a>
-<a href="https://github.com/MDRSamson/Tableau" target="_blank">Tableau</a>
-<a href="https://github.com/MDRSamson/PowerBI" target="_blank">PowerBI</a>
-<a href="https://github.com/MDRSamson/SQL" target="_blank">SQL</a>
-<a href="https://github.com/MDRSamson/Azure" target="_blank">Azure</a>
-<a href="https://github.com/MDRSamson/Python" target="_blank">Python</a>
+***<a href="https://github.com/MDRSamson/Excel" target="_blank">Excel</a>***
+***<a href="https://github.com/MDRSamson/Tableau" target="_blank">Tableau</a>***
+***<a href="https://github.com/MDRSamson/PowerBI" target="_blank">PowerBI</a>***
+***<a href="https://github.com/MDRSamson/SQL" target="_blank">SQL</a>***
+***<a href="https://github.com/MDRSamson/Azure" target="_blank">Azure</a>***
+***<a href="https://github.com/MDRSamson/Python" target="_blank">Python</a>***
 
  
 ### Socials
