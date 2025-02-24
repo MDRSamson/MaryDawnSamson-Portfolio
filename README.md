@@ -8,7 +8,7 @@ I'm a recent graduate of a Data Technician Skills Bootcamp, where I gained hands
 
 Please find below data analysis projects I have completed:
 
-<a href="[https://github.com/MDRSamson/Excel" target="_blank">Excel</a>
+<a href="https://github.com/MDRSamson/Excel" target="_blank">Excel</a>
 <a href="https://readme.com/" target="_blank">Python Project</a>
 <a href="https://readme.com/" target="_blank">Python Project</a>
  
